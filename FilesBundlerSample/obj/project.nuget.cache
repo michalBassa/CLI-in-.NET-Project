@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iY/vLs/UIvtU1Oo9tv2xNUdlBjUz+KWqYfQzgzlnwE/kpjywV9EI9hZXFKQP0Yrb6VQ5+7k39pS9GHShvgbBfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\פרקטיקוד\\FilesBundlerSample\\FilesBundlerSample\\fib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
